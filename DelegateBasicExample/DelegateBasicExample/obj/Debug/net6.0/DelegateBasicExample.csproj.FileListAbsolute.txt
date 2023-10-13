@@ -1,0 +1,15 @@
+C:\Users\eio\VisualStudioProjects\advanced_course\DelegateBasicExample\DelegateBasicExample\bin\Debug\net6.0\DelegateBasicExample.exe
+C:\Users\eio\VisualStudioProjects\advanced_course\DelegateBasicExample\DelegateBasicExample\bin\Debug\net6.0\DelegateBasicExample.deps.json
+C:\Users\eio\VisualStudioProjects\advanced_course\DelegateBasicExample\DelegateBasicExample\bin\Debug\net6.0\DelegateBasicExample.runtimeconfig.json
+C:\Users\eio\VisualStudioProjects\advanced_course\DelegateBasicExample\DelegateBasicExample\bin\Debug\net6.0\DelegateBasicExample.dll
+C:\Users\eio\VisualStudioProjects\advanced_course\DelegateBasicExample\DelegateBasicExample\bin\Debug\net6.0\DelegateBasicExample.pdb
+C:\Users\eio\VisualStudioProjects\advanced_course\DelegateBasicExample\DelegateBasicExample\obj\Debug\net6.0\DelegateBasicExample.csproj.AssemblyReference.cache
+C:\Users\eio\VisualStudioProjects\advanced_course\DelegateBasicExample\DelegateBasicExample\obj\Debug\net6.0\DelegateBasicExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eio\VisualStudioProjects\advanced_course\DelegateBasicExample\DelegateBasicExample\obj\Debug\net6.0\DelegateBasicExample.AssemblyInfoInputs.cache
+C:\Users\eio\VisualStudioProjects\advanced_course\DelegateBasicExample\DelegateBasicExample\obj\Debug\net6.0\DelegateBasicExample.AssemblyInfo.cs
+C:\Users\eio\VisualStudioProjects\advanced_course\DelegateBasicExample\DelegateBasicExample\obj\Debug\net6.0\DelegateBasicExample.csproj.CoreCompileInputs.cache
+C:\Users\eio\VisualStudioProjects\advanced_course\DelegateBasicExample\DelegateBasicExample\obj\Debug\net6.0\DelegateBasicExample.dll
+C:\Users\eio\VisualStudioProjects\advanced_course\DelegateBasicExample\DelegateBasicExample\obj\Debug\net6.0\refint\DelegateBasicExample.dll
+C:\Users\eio\VisualStudioProjects\advanced_course\DelegateBasicExample\DelegateBasicExample\obj\Debug\net6.0\DelegateBasicExample.pdb
+C:\Users\eio\VisualStudioProjects\advanced_course\DelegateBasicExample\DelegateBasicExample\obj\Debug\net6.0\DelegateBasicExample.genruntimeconfig.cache
+C:\Users\eio\VisualStudioProjects\advanced_course\DelegateBasicExample\DelegateBasicExample\obj\Debug\net6.0\ref\DelegateBasicExample.dll
